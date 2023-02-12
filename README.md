@@ -6,8 +6,8 @@
 ![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-222222?style=flat&logo=kotlin&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-222222.svg?style=flat&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-222222.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-222222.svg?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-222222.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-222222.svg?style=flat&logo=css3&logoColor=white)
 
 #### С чем я работаю?
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
