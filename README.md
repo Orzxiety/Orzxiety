@@ -1,4 +1,3 @@
-#### Я разработчик, дизайнер и вебмастер.
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-222222?style=flat&logo=kotlin&logoColor=white)
