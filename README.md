@@ -1,4 +1,4 @@
-#### Основные языки программирования
+#### Мои основные языки программирования
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-222222.svg?style=flat&logo=sqlite&logoColor=white)
